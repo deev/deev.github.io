@@ -34,10 +34,11 @@ h1 {
 h3 {
     color: white;
     padding-bottom: 20px;
-    font-size: 1.3em;
+    font-size: 1.2em;
     letter-spacing: 0.2em;
-    font-family: 'Roboto';
+    font-family: 'Lato';
     font-weight: lighter;
+
 }
 .content {
     padding-top: 40px;
