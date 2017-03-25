@@ -3,33 +3,33 @@
 <svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" xml:space="preserve">
 <rect x="-1.249" y="-0.565" display="none" fill="#414042" width="303.346" height="301.487"/>
-<path fill="#FFFFFF" d="M150.001,13.781c-55.979,0-102.72,46.74-102.72,102.719s46.74,102.719,102.72,102.719
-	c55.979,0,102.718-46.74,102.718-102.719S205.979,13.781,150.001,13.781z M150.001,189.208c-53.816,0-90.321-58.353-66.353-106.775
-	c0.232,26.169,22.476,51.181,50.226,46.9c14.805-2.282,27.462-15.624,23.862-31.312c-3.37,13.041-13.929,17.052-24.371,17.381
-	c-19.253-3.346-26.854-21.357-22.878-37.729c5.524-22.739,27.069-35.089,49.129-33.743c32.978,2.012,58.942,28.115,63.624,60.655
-	C229.568,148.584,194.473,189.208,150.001,189.208z"/>
-<rect x="9.108" y="263.195" fill="none" width="281.785" height="28.608"/>
-<text transform="matrix(1 0 0 1 13.8008 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">t</text>
-<text transform="matrix(1 0 0 1 22.5518 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">h</text>
-<text transform="matrix(1 0 0 1 36.7686 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">e</text>
-<text transform="matrix(1 0 0 1 50.6597 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29"> </text>
-<text transform="matrix(1 0 0 1 58.7168 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">r</text>
-<text transform="matrix(1 0 0 1 68.374 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">e</text>
-<text transform="matrix(1 0 0 1 82.2651 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">t</text>
-<text transform="matrix(1 0 0 1 91.0161 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">u</text>
-<text transform="matrix(1 0 0 1 105.2329 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">r</text>
-<text transform="matrix(1 0 0 1 115.6123 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">n</text>
-<text transform="matrix(1 0 0 1 129.8291 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29"> </text>
-<text transform="matrix(1 0 0 1 137.8862 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">t</text>
-<text transform="matrix(1 0 0 1 146.6372 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">o</text>
-<text transform="matrix(1 0 0 1 162.3555 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29"> </text>
-<text transform="matrix(1 0 0 1 170.4121 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">i</text>
-<text transform="matrix(1 0 0 1 175.8633 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">n</text>
-<text transform="matrix(1 0 0 1 190.0801 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">n</text>
-<text transform="matrix(1 0 0 1 204.2969 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">o</text>
-<text transform="matrix(1 0 0 1 220.0137 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">c</text>
-<text transform="matrix(1 0 0 1 232.1074 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">e</text>
-<text transform="matrix(1 0 0 1 245.998 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">n</text>
-<text transform="matrix(1 0 0 1 260.2148 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">c</text>
-<text transform="matrix(1 0 0 1 272.3066 282.9727)" fill="#FFFFFF" font-family="'GillSans-Light'" font-size="29">e</text>
+<path fill="#E6E7E8" d="M150,25.781c-40.992,0-75.219,34.227-75.219,75.219s34.227,75.219,75.219,75.219
+	c40.992,0,75.218-34.227,75.218-75.219S190.992,25.781,150,25.781z M150,154.242c-39.408,0-66.14-42.73-48.588-78.189
+	c0.17,19.163,16.458,37.479,36.779,34.344c10.842-1.671,20.11-11.441,17.475-22.93c-2.469,9.55-10.201,12.487-17.847,12.728
+	c-14.099-2.45-19.665-15.639-16.753-27.627c4.045-16.651,19.822-25.695,35.975-24.709c24.149,1.473,43.163,20.588,46.591,44.417
+	C208.267,124.494,182.566,154.242,150,154.242z"/>
+<rect x="9.108" y="233.695" fill="none" width="281.785" height="28.608"/>
+<text transform="matrix(1 0 0 1 13.8008 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">t</text>
+<text transform="matrix(1 0 0 1 22.5518 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">h</text>
+<text transform="matrix(1 0 0 1 36.7686 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">e</text>
+<text transform="matrix(1 0 0 1 50.6597 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29"> </text>
+<text transform="matrix(1 0 0 1 58.7168 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">r</text>
+<text transform="matrix(1 0 0 1 68.374 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">e</text>
+<text transform="matrix(1 0 0 1 82.2651 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">t</text>
+<text transform="matrix(1 0 0 1 91.0161 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">u</text>
+<text transform="matrix(1 0 0 1 105.2329 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">r</text>
+<text transform="matrix(1 0 0 1 115.6123 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">n</text>
+<text transform="matrix(1 0 0 1 129.8291 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29"> </text>
+<text transform="matrix(1 0 0 1 137.8862 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">t</text>
+<text transform="matrix(1 0 0 1 146.6372 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">o</text>
+<text transform="matrix(1 0 0 1 162.3555 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29"> </text>
+<text transform="matrix(1 0 0 1 170.4121 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">i</text>
+<text transform="matrix(1 0 0 1 175.8633 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">n</text>
+<text transform="matrix(1 0 0 1 190.0801 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">n</text>
+<text transform="matrix(1 0 0 1 204.2969 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">o</text>
+<text transform="matrix(1 0 0 1 220.0137 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">c</text>
+<text transform="matrix(1 0 0 1 232.1074 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">e</text>
+<text transform="matrix(1 0 0 1 245.998 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">n</text>
+<text transform="matrix(1 0 0 1 260.2148 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">c</text>
+<text transform="matrix(1 0 0 1 272.3066 253.4727)" fill="#A7A9AC" font-family="'GillSans-Light'" font-size="29">e</text>
 </svg>
