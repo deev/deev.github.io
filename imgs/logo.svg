@@ -5,12 +5,13 @@
 <rect x="-1.249" y="-0.565" display="none" fill="#414042" width="303.346" height="301.487"/>
 <radialGradient id="SVGID_1_" cx="150" cy="150" r="137.25" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
-	<stop  offset="0.3092" style="stop-color:#F2F3F3;stop-opacity:0.0582"/>
-	<stop  offset="0.5309" style="stop-color:#E6E7E8;stop-opacity:0.1"/>
-	<stop  offset="0.5972" style="stop-color:#BFC0C1;stop-opacity:0.0859"/>
-	<stop  offset="0.7441" style="stop-color:#6E6F6F;stop-opacity:0.0545"/>
-	<stop  offset="0.8649" style="stop-color:#333333;stop-opacity:0.0288"/>
-	<stop  offset="0.9533" style="stop-color:#0E0E0E;stop-opacity:0.0099"/>
+	<stop  offset="0.095" style="stop-color:#F2F2F3;stop-opacity:0.0179"/>
+	<stop  offset="0.2703" style="stop-color:#D0D1D2;stop-opacity:0.0509"/>
+	<stop  offset="0.505" style="stop-color:#999B9E;stop-opacity:0.0951"/>
+	<stop  offset="0.5309" style="stop-color:#939598;stop-opacity:0.1"/>
+	<stop  offset="0.6398" style="stop-color:#6B6C6E;stop-opacity:0.0768"/>
+	<stop  offset="0.809" style="stop-color:#313233;stop-opacity:0.0407"/>
+	<stop  offset="0.934" style="stop-color:#0E0E0E;stop-opacity:0.0141"/>
 	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
 </radialGradient>
 <circle fill="url(#SVGID_1_)" cx="150" cy="150" r="137.25"/>
