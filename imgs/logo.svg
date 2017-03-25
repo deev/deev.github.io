@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" xml:space="preserve">
-<rect x="-1.249" y="-0.565" fill="#414042" width="303.346" height="301.487"/>
-<radialGradient id="SVGID_1_" cx="150" cy="150" r="137.25" gradientUnits="userSpaceOnUse">
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<rect x="-1.249" y="-0.565" display="none" fill="#414042" width="303.346" height="301.487"/>
+<radialGradient id="SVGID_1_" cx="297.5" cy="-120" r="137.25" gradientTransform="matrix(1 0 0 -1 -147.5 30)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 	<stop  offset="0.1396" style="stop-color:#F2F3F3;stop-opacity:0.0263"/>
 	<stop  offset="0.3963" style="stop-color:#D0D2D3;stop-opacity:0.0746"/>
@@ -16,10 +17,10 @@
 <circle fill="url(#SVGID_1_)" cx="150" cy="150" r="137.25"/>
 <path fill="#F1F2F2" d="M150,77.281c-39.63,0-72.719,33.089-72.719,72.719c0,39.629,33.089,72.719,72.719,72.719
 	c39.629,0,72.718-33.09,72.718-72.719C222.719,110.371,189.63,77.281,150,77.281z M150,201.473
-	c-38.099,0-63.941-41.311-46.974-75.59c0.165,18.526,15.912,36.233,35.557,33.203c10.481-1.616,19.441-11.061,16.894-22.167
-	c-2.387,9.232-9.861,12.072-17.254,12.305c-13.63-2.368-19.011-15.12-16.196-26.709c3.911-16.098,19.164-24.841,34.779-23.888
-	c23.347,1.424,41.729,19.904,45.043,42.94C206.33,172.713,181.484,201.473,150,201.473z"/>
-<rect x="1.608" y="257.434" fill="none" width="296.785" height="30.132"/>
+	c-38.099,0-63.941-41.311-46.974-75.59c0.165,18.526,15.912,36.233,35.557,33.203c10.481-1.615,19.44-11.061,16.894-22.167
+	c-2.387,9.232-9.86,12.072-17.253,12.305c-13.63-2.368-19.011-15.12-16.196-26.709c3.911-16.098,19.164-24.841,34.78-23.888
+	c23.346,1.424,41.729,19.904,45.043,42.94C206.33,172.713,181.484,201.473,150,201.473z"/>
+<rect x="1.608" y="257.434" fill="none" width="296.785" height="30.133"/>
 <text transform="matrix(1 0 0 1 8.3335 276.5293)" fill="#939598" font-family="'GillSans-Light'" font-size="28">t</text>
 <text transform="matrix(1 0 0 1 17.7065 276.5293)" fill="#939598" font-family="'GillSans-Light'" font-size="28">h</text>
 <text transform="matrix(1 0 0 1 32.3574 276.5293)" fill="#939598" font-family="'GillSans-Light'" font-size="28">e</text>
