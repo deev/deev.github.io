@@ -21,7 +21,7 @@ body {
     left: 0;
 }
 #avatar {
-    height: 68px;
+    height: 80px;
 }
 h1 {
     color: white;
@@ -40,10 +40,20 @@ h3 {
     font-weight: lighter;
 
 }
+
+p {
+    color: #a6a6a6;
+    padding-bottom: 20px;
+    font-size: 1.6em;
+    letter-spacing: 0.2em;
+    font-family: 'Lato';
+    font-weight: lighter;
+
+}
 .content {
     padding-top: 40px;
     padding-bottom: 0px;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.9);
     bottom:0;
     text-align: center;
 }
