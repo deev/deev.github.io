@@ -14,7 +14,7 @@ permalink: /
         <link rel="shortcut icon" href="{{ site.favicon_img_path }}" />
         {% endif %}
         <link rel="stylesheet" href="{{ "css/front.css" | prepend: site.baseurl }}">
-        <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400&subset=latin' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400&subset=latin' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     </head>
     <body>
@@ -27,6 +27,8 @@ permalink: /
             {% if site.front_img %}
             <img src="{{ site.front_img_path }}" id="fullscreen">
             {% endif %}
+
+            <h3>{{ site.description }}</h3>
             <!--
 
             <h1>{{ site.name }}</h1>
